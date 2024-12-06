@@ -18,12 +18,12 @@ First, clone this repository to your local machine using the following command:
 
 ## Make the Script Executable
 cd Hadoop-Setup
-chmod +x setup-hadoop.sh
+chmod +x SingleNode-HadoopSetup.sh
 
 ## Run the Script
-./setup-hadoop.sh
+./SingleNode-HadoopSetup.sh
 
 ```bash
-git clone https://github.com/RushikeshShinde/Hadoop-Setup.git
+git clone https://github.com/RushikeshShinde/SingleNode-HadoopSetup.sh
 
 
